@@ -1,0 +1,1 @@
+stampa_variabile pluto

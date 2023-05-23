@@ -1,0 +1,1 @@
+crea_variabile pippo 6
